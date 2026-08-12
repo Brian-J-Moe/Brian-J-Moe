@@ -38,3 +38,7 @@ Continuous-time state-space movement model incorporating environmental drivers.
 
 [VEMCODataMgmt](https://github.com/Brian-J-Moe/VEMCODataMgmt)
 R package for passive-acoustic telemetry data management and automation.
+
+<br><br>
+
+*Available for statistical consulting, collaborative research, and scientific R development.*

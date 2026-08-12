@@ -32,3 +32,7 @@ I develop statistical models and reproducible computational tools for ecological
 [Bayesian CTCRW](https://github.com/Brian-J-Moe/Bayesian-SSM-with-CTCRW) Continuous-time state-space movement model incorporating environmental drivers.
 
 [VEMCODataMgmt](https://github.com/Brian-J-Moe/VEMCODataMgmt) R package for passive-acoustic telemetry data management and automation.
+
+<br><br>
+
+*Available for statistical consulting, collaborative research, and scientific R development.*
