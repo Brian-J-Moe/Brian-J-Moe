@@ -14,7 +14,14 @@ I develop statistical models and reproducible computational tools for ecological
 
 ### Expertise
 
-• Bayesian hierarchical modeling • Stan / cmdstanr • Population & life-history modeling • State-space and movement models • Spatial and environmental statistics • Acoustic telemetry • R package development • Reproducible research workflows
+• Bayesian hierarchical modeling  
+• Stan / cmdstanr  
+• Population & life-history modeling  
+• State-space and movement models  
+• Spatial and environmental statistics  
+• Acoustic telemetry  
+• R package development  
+• Reproducible research workflows
 
 <br>
 
