@@ -2,7 +2,7 @@
 
 ## Brian J. Moe, PhD
 
-#### Quantitative Ecologist \| Bayesian Statistical Modeling \| R Development
+#### *Quantitative Ecologist \| Bayesian Statistical Modeling \| R Development*
 
 <br>
 
